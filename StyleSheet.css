@@ -1,1 +1,12 @@
-
+body{
+    background-color: moccasin;
+}
+h1{
+    color: aliceblue;
+    font-size: 20px;
+}
+h4{
+    color: cadetblue;
+    background-color: darkkhaki;
+    font-size: 16px;
+}
